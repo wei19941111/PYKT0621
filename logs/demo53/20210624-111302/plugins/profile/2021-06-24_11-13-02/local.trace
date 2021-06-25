@@ -1,0 +1,88 @@
+
+gõb
+	/host:CPUõ
+ÌÌÄ
+
+tf_ComputeÄ¼"
+
+tf_Compute¼"Œ\
+
+tf_ComputeŒ\
+
+/device:GPU:0"õÌtf.constantH ±øÁPàù "WõÌcomputeAreaH€¢ÔçPÀÜZ
+tracing_count1Z!
+tf_function_calltraced-nonXla"/õÌtf.function-graph_buildingH “ÃÍ	PÀ’º¯Ó"%õÌconvert_to_tensorHàÑñÆŸPÀŸ«"&õÌconvert_to_tensorHàäŞæŸP€Êµî"%õÌconvert_to_tensorH úİ×¡PÀ°¯a"%õÌconvert_to_tensorHàÛÊ»¢PÀ×®]"%õÌconvert_to_tensorH€£ûé£P€’ô"%õÌconvert_to_tensorHà›Øò£P Ë˜"%õÌconvert_to_tensorH Ò–û£P Ç½"%õÌconvert_to_tensorHÀ½¼‚¤PàØÏ"%õÌconvert_to_tensorHÀß¦¥P€İÛ"%õÌconvert_to_tensorH€“·¶¥P€šş^"%õÌconvert_to_tensorHà›Ô—¦P ¢å["%õÌconvert_to_tensorH€ºŞõ¦PÀ³ÆY"%õÌconvert_to_tensorHà¥ïù§P êá"%õÌconvert_to_tensorH ›¨P –€"%õÌconvert_to_tensorH ›„‰¨P Ç½"%õÌconvert_to_tensorHÀ†ª¨PÀËÉ"%õÌconvert_to_tensorHà‹š©P€İÛ"%õÌconvert_to_tensorHÀä‡ª©P Š^"%õÌconvert_to_tensorHÀñ°ŠªP ¯ºZ"%õÌconvert_to_tensorHÀÚñæªP€¯‰Y"%õÌconvert_to_tensorH Ó×é«P€İÛ"%õÌconvert_to_tensorHÀ¾ığ«PÀ£†"%õÌconvert_to_tensorHÀ»æø«PÀê’"%õÌconvert_to_tensorH€Êáÿ«Pà£·"%õÌconvert_to_tensorHàô²»­P€’ô"%õÌconvert_to_tensorH€¹ÙÆ­P ’¥"%õÌconvert_to_tensorHà¡ÓÒ®P€’ô"%õÌconvert_to_tensorH ‰Ïİ®PÀê’"%õÌconvert_to_tensorH ŒïÏ¯P µÉ"&õÌconvert_to_tensorH åïÓ¯P ›İ–"%õÌconvert_to_tensorH øÏ±P µÉ"%õÌconvert_to_tensorHàª³©±PÀê’"%õÌconvert_to_tensorH ¶ ²²P€İÛ"%õÌconvert_to_tensorHàœ½²P İŒ"%õÌconvert_to_tensorH€Ñ›Æ³P êá"%õÌconvert_to_tensorHÀ¸—Ñ³P€Ù€"%õÌconvert_to_tensorHàéÏ´P€İÛ"%õÌconvert_to_tensorH€Ä„Ú´PÀê’"%õÌconvert_to_tensorH€À²ÖµP€İÛ"%õÌconvert_to_tensorHÀ§®áµP ¨ô"%õÌconvert_to_tensorHÀÏúÜ¶P µÉ"%õÌconvert_to_tensorH€‚Şç¶PÀµú"%õÌconvert_to_tensorHà¥ä·P êá"%õÌconvert_to_tensorH šï·PÀµú"%õÌconvert_to_tensorH€‡Ä÷¸P êá"&õÌconvert_to_tensorHà‘•‚¹PàâË›"%õÌconvert_to_tensorH€úµ…»P€İÛ"%õÌconvert_to_tensorH ‹´»P µÉ"-õÌTFE_Py_ExecuteCancelableHÀ‘ŞP€¶şÏ)"=õÌ(EagerExecute: __inference_computeArea_38H€À–ŞP Ò¬Á)"BõÌ-EagerLocalExecute: __inference_computeArea_38HÀãœŞP À¸¿)"3õÌEagerCopyToDeviceAndAddCacheKeyH€òŞPÀØ"0õÌValidateInputTypeAndPlacementH î©…PàÆ["[õÌEagerKernelExecute 0H µ¶…Pà§Ã½Z!
+	step_nameEagerKernelExecute 0Z
+group_id0"JõÌFunctionRunHàîÉ£†P€ì¸Z
+id-4021032220390477635Z
+group_id0"*õÌTFE_DeleteTensorHandleH ÕŞ„ˆPÀØ")õÌTFE_DeleteTensorHandleHÀò…”ˆP€µ"õÌtf.constantH€ÇÁáŒP §")õÌTFE_DeleteTensorHandleH€¯ŸïŒPàÜ*",õÌTFE_Py_FastPathExecute_CH —®şŒPàİ£"%õÌTFE_DeleteTensorHandleH€‹‡"%õÌTFE_DeleteTensorHandleHÀÉà‡",õÌEagerExecute: LogicalAndH ÅÔˆP Á"1õÌEagerLocalExecute: LogicalAndH€×—‰PÀ¯Ì"0õÌValidateInputTypeAndPlacementH ø™–P€µ"5õÌEagerKernelExecuteH€ÕÄ–PÀü†Z
+group_id0"`õÌ
+LogicalAndHàĞ¸—P€º·Z"
+	long_nameLogicalAnd:LogicalAndZ
+group_id0Z
+is_eager1"%õÌconvert_to_tensorHà’Û®PàØÏ",õÌTFE_Py_FastPathExecute_CHÀ²·³P ¯›"*õÌEagerExecute: IdentityHÀ¬¹PÀıÊ
+"/õÌEagerLocalExecute: IdentityH Å¾¹PàÕ¸
+"0õÌValidateInputTypeAndPlacementH€‰ƒÂP€µ"5õÌEagerKernelExecuteHàå­ÂP €±Z
+group_id0"YõÌIdentityHÀ÷ğÂP€ê0Z
+	long_nameIdentity:IdentityZ
+group_id0Z
+is_eager1",õÌTFE_Py_FastPathExecute_CH€¿ßÇP üÕ"%õÌconvert_to_tensorHàœƒæPÀ¤Ê"%õÌconvert_to_tensorHà™ìíP€¯ê"õÌtf.constantH áÚòP€ıè")õÌTFE_DeleteTensorHandleH€“«ùPà§"%õÌconvert_to_tensorH ìÜşP Úõ
+"õÌtf.constantH Å‚PàêÃ")õÌTFE_DeleteTensorHandleH ´­†P€µ"%õÌconvert_to_tensorH ÂÆŠP€šß"õÌtf.constantH€Ò¶˜PÀü†")õÌTFE_DeleteTensorHandleH€•èœPà§",õÌTFE_Py_ExecuteCancelableHÀ„š£P€áë".õÌEagerExecute: WriteSummaryH€º”¦PàÎÆ"3õÌEagerLocalExecute: WriteSummaryH€ï¬¦Pà™®"0õÌValidateInputTypeAndPlacementHÀÚƒ¯P€µ"5õÌEagerKernelExecuteHÀÄ´¯P Z
+group_id0"fõÌWriteSummaryH€ş‰°P€ù
+Z&
+	long_nameWriteSummary:WriteSummaryZ
+group_id0Z
+is_eager1")õÌTFE_DeleteTensorHandleH€Ôó»Pà‘C"%õÌTFE_DeleteTensorHandleHàÏç¼"%õÌTFE_DeleteTensorHandleHÀ÷ù¼"õÌtf.constantH ­¥ÁP Ù±")õÌTFE_DeleteTensorHandleH€˜éÅP€µ")õÌTFE_DeleteTensorHandleH ”¿ÉPàÜ*")õÌTFE_DeleteTensorHandleH€¦‚ÊPàÜ*")õÌTFE_DeleteTensorHandleH •ƒÏPà‘C"%õÌTFE_DeleteTensorHandleH€ÜŞÏ"dõÄExecutorState::ProcessHÀÅÆ³†P€—ÈZ
+id-4021032220390477635Z
+iter_num0Z
+group_id0"iõÄStridedSliceH Ğ—¾†P€úÑZ)
+	long_namestrided_slice_2:StridedSliceZ
+group_id0Z
+is_eager0"dõÄExecutorState::ProcessH ˆ±ç†P€ÖéZ
+id-4021032220390477635Z
+iter_num0Z
+group_id0"KõÄSubH€šôç†PÀ’ÖZ
+	long_namesub:SubZ
+group_id0Z
+is_eager0"KõÄMulH ‰õì†P µÉZ
+	long_namemul:MulZ
+group_id0Z
+is_eager0"LõÄMulHÀ¨ïî†Pà§Z
+	long_name	mul_1:MulZ
+group_id0Z
+is_eager0"LõÄMulH …šï†P€µZ
+	long_name	mul_2:MulZ
+group_id0Z
+is_eager0"MõÄSqrtH€âÄï†P€’ôZ
+	long_namepow:SqrtZ
+group_id0Z
+is_eager0"dõ¼"ExecutorState::ProcessHÀÎõÌ†Pàü·Z
+id-4021032220390477635Z
+iter_num0Z
+group_id0"gõ¼"StridedSliceH€Ü¬Î†PàîZ'
+	long_namestrided_slice:StridedSliceZ
+group_id0Z
+is_eager0"dõ¼"ExecutorState::ProcessH ˆ±ç†P€ïÏZ
+id-4021032220390477635Z
+iter_num0Z
+group_id0"Mõ¼"SubH€šôç†PÀµúZ
+	long_name	sub_1:SubZ
+group_id0Z
+is_eager0"Sõ¼"ExecutorDoneCallbackH€†­ó†Pà¬Z
+id-4021032220390477635Z
+group_id0"dõŒ\ExecutorState::ProcessH ¹¹Ñ†P€Ğ»Z
+id-4021032220390477635Z
+iter_num0Z
+group_id0"iõŒ\StridedSliceHà‘ØÒ†PÀü†Z)
+	long_namestrided_slice_1:StridedSliceZ
+group_id0Z
+is_eager0"qõŒ\AddNHàÃÙÚ†Pà’‡Z9
+	long_name,ArithmeticOptimizer/AddOpsRewrite_add_1:AddNZ
+group_id0Z
+is_eager0"OõŒ\MulH ³‹á†PÀü†Z
+	long_nametruediv:MulZ
+group_id0Z
+is_eager0"MõŒ\SubH Ó˜ç†P Ù±Z
+	long_name	sub_2:SubZ
+group_id0Z
+is_eager0
